@@ -6,6 +6,6 @@ public class classTest1 {
 
 	@Test
 	public void firstTest() {
-		System.out.println("modified");
+		System.out.println("modified - change");
 	}
 }
