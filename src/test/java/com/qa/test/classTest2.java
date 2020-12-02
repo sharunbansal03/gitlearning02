@@ -6,6 +6,6 @@ public class classTest2 {
 
 	@Test
 	public void firstTest() {
-		System.out.println("git learning project");
+		System.out.println("git learning project - updated as asked");
 	}
 }
