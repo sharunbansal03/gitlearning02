@@ -2,10 +2,10 @@ package com.qa.test;
 
 import org.testng.annotations.Test;
 
-public class classTest1 {
+public class classTest2 {
 
 	@Test
 	public void firstTest() {
-		System.out.println("modified");
+		System.out.println("git learning project");
 	}
 }
